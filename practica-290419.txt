@@ -1,0 +1,19 @@
+
+Presentar la solución en lenguaje Java
+
+El costo de matricula de un estudiante es de $1330. Pero se debe considerar algunas situaciones:
+
+- Si el estudiante es de Loja o Zamora, se descontara el 20% de la matrícula inicial.
+
+- Si la edad del estudiante es mayor o igual a 17 y menor a 20, al costo de la matrícula inicial se le descontara 10%
+
+- Si el estado civil del estudiante es casado se descontara el 5% del costo de matrícula inicial.
+
+- Si el estudiante tiene una o varias cargas familiares se le descontara el 3% del costo de matrícula inicial.
+
+Al costo final de matrícula se le debe agregar 2% por trámite administrativos.
+
+
+Nota: los porcentajes deben estar en una clase y paquete diferente; para su importación en la clase Principal.
+
+
