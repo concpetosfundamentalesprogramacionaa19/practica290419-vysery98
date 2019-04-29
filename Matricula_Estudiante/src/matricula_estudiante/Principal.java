@@ -46,6 +46,8 @@ public class Principal {
         scan.nextLine(); // para limpieza del buffer
 
         // Verificacion de Datos para asignar descuento
+        
+        // Para datos numéricos ->__ == __ ; Para cadenas -> ____.equals(____)
         if ("Loja".equals(ciudad) || "Zamora".equals(ciudad)) {
             dctoProced = costo_matricula * Porcentajes.porcProcedencia;
             // Si es Loja o Zamora hay dcto del 20%
